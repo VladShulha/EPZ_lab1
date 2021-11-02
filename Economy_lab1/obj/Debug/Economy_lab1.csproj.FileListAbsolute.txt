@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.exe.config
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.exe
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.pdb
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.MainScreen.resources
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.Properties.Resources.resources
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.exe
+C:\Users\User\source\repos\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.pdb
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.exe.config
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.exe
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\bin\Debug\EPZ_lab1.pdb
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.csprojAssemblyReference.cache
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.MainScreen.resources
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.Properties.Resources.resources
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.csproj.GenerateResource.cache
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.exe
+D:\3 курсссссс\ЕПЗ\vlal\EPZ_lab1\EPZ_lab1\obj\Debug\EPZ_lab1.pdb
+C:\Users\new2020-mag\Desktop\Economy_lab1\Economy_lab1\obj\Debug\Economy_lab1.csprojAssemblyReference.cache
+C:\Users\new2020-mag\Desktop\Economy_lab1\Economy_lab1\obj\Debug\EPZ_lab1.MainScreen.resources
+C:\Users\new2020-mag\Desktop\Economy_lab1\Economy_lab1\obj\Debug\EPZ_lab1.Properties.Resources.resources
+C:\Users\new2020-mag\Desktop\Economy_lab1\Economy_lab1\obj\Debug\Economy_lab1.csproj.GenerateResource.cache
